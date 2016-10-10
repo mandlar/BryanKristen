@@ -1,7 +1,7 @@
 /* ======= Base ======= */
 html,
 body {
-  background: #F6F8F8;
+  /*background: #F6F8F8;*/
   height: 100%;
 }
 body {
@@ -205,7 +205,7 @@ label {
   color: rgba(255, 255, 255, 0.85);
 }
 .title-reversed .title-deco-left {
-  background: transparent url('../images/rose-left-white.svg') no-repeat left bottom;
+  background: transparent url('../images/wedding/rose-left-blue.svg') no-repeat left bottom;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -215,7 +215,7 @@ label {
   opacity: 0.85;
 }
 .title-reversed .title-deco-right {
-  background: transparent url('../images/rose-right-white.svg') no-repeat right bottom;
+  background: transparent url('../images/wedding/rose-right-blue.svg') no-repeat right bottom;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -225,7 +225,7 @@ label {
   opacity: 0.85;
 }
 .title-deco-left {
-  background: transparent url('../images/rose-left-pink.svg') no-repeat left bottom;
+  background: transparent url('../images/wedding/rose-left-blue.svg') no-repeat left bottom;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -235,7 +235,7 @@ label {
   display: inline-block;
 }
 .title-deco-right {
-  background: transparent url('../images/rose-right-pink.svg') no-repeat right bottom;
+  background: transparent url('../images/wedding/rose-right-blue.svg') no-repeat right bottom;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -366,7 +366,7 @@ label {
 /* ======= Hero Section ======= */
 .hero-section {
   margin-top: 55px;
-  background: #262220 url('../images/hero-bg.jpg') no-repeat 50% top;
+  background: #262220 url('../images/wedding/BryanKristenMeetUsOnTheBeach.png') no-repeat 50% top; /* 1600 x 760 */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -376,7 +376,7 @@ label {
 }
 .curve-holder {
   display: block;
-  background: transparent url('../images/curve-mask.svg') no-repeat 50% bottom;
+  background: transparent url('../images/wedding/curve-mask.svg') no-repeat 50% bottom;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -397,14 +397,14 @@ label {
   background: rgba(0, 0, 0, 0.6);
   color: rgba(255, 255, 255, 0.85);
   padding: 30px;
-  padding-top: 90px;
+  padding-top: 90px; /* this was 90px, switch back to 90px if re-adding RSVP button */
   padding-bottom: 60px;
   height: 760px;
 }
 .hero-box .date {
   font-size: 28px;
   color: #413a38;
-  background: transparent url('../images/ribbon-lime.svg') no-repeat center top;
+  background: transparent url('../images/wedding/ribbon-blue.svg') no-repeat center top;
   height: 126px;
   padding-top: 8px;
   font-weight: bold;
@@ -414,7 +414,7 @@ label {
   opacity: 0.85;
 }
 .headline .names {
-  font-size: 76px;
+  font-size: 69px;
   margin-bottom: 20px;
 }
 .headline .statement {
@@ -428,7 +428,7 @@ label {
 }
 .headline .swirl-left {
   display: inline-block;
-  background: transparent url('../images/swirl-left.svg') no-repeat left center;
+  background: transparent url('../images/wedding/swirl-left.svg') no-repeat left center;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -438,7 +438,7 @@ label {
 }
 .headline .swirl-right {
   display: inline-block;
-  background: transparent url('../images/swirl-right.svg') no-repeat right center;
+  background: transparent url('../images/wedding/swirl-right.svg') no-repeat right center;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -542,7 +542,7 @@ label {
 }
 /* ======= Story Section ======= */
 .story-section {
-  background: #413a38 url('../images/story-bg.jpg') no-repeat 50% top;
+  background: #413a38 url('../images/wedding/story-bg.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -714,7 +714,7 @@ label {
   padding-bottom: 90px;
 }
 .message-container {
-  background: transparent url('../images/frame-pink.png') no-repeat center top;
+  background: transparent url('../images/wedding/frame-pink.png') no-repeat center top;
   min-height: 620px;
   position: relative;
   margin-bottom: 200px;
@@ -744,7 +744,7 @@ label {
   margin-left: -163px;
   width: 326px;
   height: 304px;
-  background: transparent url('../images/heart-couple-pink.png') no-repeat center center;
+  background: transparent url('../images/wedding/heart-couple-pink.png') no-repeat center center;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -834,7 +834,7 @@ label {
     height: auto;
   }
   .headline .names {
-    font-size: 60px;
+    font-size: 53px;
   }
   .hero-box {
     height: 100%;
@@ -919,17 +919,17 @@ label {
 /* ======= Configure Style (Remove in production) ======= */
 /* Blue */
 .hero-box .date {
-  background-image: url('../images/ribbon-blue.svg');
+  background-image: url('../images/wedding/ribbon-blue.svg');
 }
 .title-deco-left {
-  background-image: url('../images/rose-left-blue.svg');
+  background-image: url('../images/wedding/rose-left-blue.svg');
 }
 .title-deco-right {
-  background-image: url('../images/rose-right-blue.svg');
+  background-image: url('../images/wedding/rose-right-blue.svg');
 }
 .message-container {
-  background-image: url('../images/frame-blue.png');
+  background-image: url('../images/wedding/frame-blue.png');
 }
 .couple-profile {
-  background-image: url('../images/heart-couple-blue.png');
+  background-image: url('../images/wedding/heart-couple-blue.png');
 }
