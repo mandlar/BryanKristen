@@ -621,18 +621,36 @@ label {
   font-size: 16px;
   color: #666666;
 }
-.weddingparty-section .intro .hashtag {
-  font-family: 'Montserrat', arial, sans-serif;
-}
 .weddingpartymember {
   margin-bottom: 50px;
 }
-
 .weddingpartymember img {
   margin-bottom: 15px;
 }
-
 .weddingpartymember .name {
+  font-size: 18px;
+}
+/* ======= Accommodations Section ======= */
+.accommodations-section {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  /*background: #f5f5f5;*/
+}
+.accommodations-section .title {
+  margin-bottom: 30px;
+}
+.accommodations-section .intro {
+  margin-bottom: 60px;
+  font-size: 16px;
+  color: #666666;
+}
+.hotel {
+  margin-bottom: 50px;
+}
+.hotel img {
+  margin-bottom: 15px;
+}
+.hotel .name {
   font-size: 18px;
 }
 /* ======= Gallery Section ======= */
