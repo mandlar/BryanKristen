@@ -607,6 +607,34 @@ label {
 .story-carousel .icon-glasses {
   font-size: 42px;
 }
+/* ======= Wedding Party Section ======= */
+.weddingparty-section {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: #f5f5f5;
+}
+.weddingparty-section .title {
+  margin-bottom: 30px;
+}
+.weddingparty-section .intro {
+  margin-bottom: 60px;
+  font-size: 16px;
+  color: #666666;
+}
+.weddingparty-section .intro .hashtag {
+  font-family: 'Montserrat', arial, sans-serif;
+}
+.weddingpartymember {
+  margin-bottom: 50px;
+}
+
+.weddingpartymember img {
+  margin-bottom: 15px;
+}
+
+.weddingpartymember .name {
+  font-size: 18px;
+}
 /* ======= Gallery Section ======= */
 .gallery-section {
   padding-top: 90px;
