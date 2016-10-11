@@ -366,7 +366,7 @@ label {
 /* ======= Hero Section ======= */
 .hero-section {
   margin-top: 55px;
-  background: #262220 url('../images/wedding/BryanKristenMeetUsOnTheBeach3.png') no-repeat 50% top; /* 1600 x 760 */
+  background: #C7C7D8 url('../images/wedding/BryanKristenMeetUsOnTheBeach3.png') no-repeat 50% top; /* 1600 x 760 */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -403,7 +403,7 @@ label {
 }
 .hero-box .date {
   font-size: 28px;
-  color: #413a38;
+  color: #444; /*#413a38*/
   background: transparent url('../images/wedding/ribbon-blue.svg') no-repeat center top;
   height: 126px;
   padding-top: 8px;
@@ -543,7 +543,7 @@ label {
 }
 /* ======= Story Section ======= */
 .story-section {
-  background: #413a38 url('../images/wedding/story-bg.png') no-repeat 50% top;
+  background: #7297B2 url('../images/wedding/story-bg.png') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
