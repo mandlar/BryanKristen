@@ -4,20 +4,20 @@ $(document).ready(function() {
     $('body').scrollspy({ target: '#header', offset: 100});
     
     /* ======= ScrollTo ======= */
-    // $('a.scrollto').on('click', function(e){
+    $('a.scrollto').on('click', function(e){
         
-    //     //store hash
-    //     var target = this.hash;
+        //store hash
+        var target = this.hash;
                 
-    //     e.preventDefault();
+        e.preventDefault();
         
-	// 	$('body').scrollTo(target, 800, {offset: -55, 'axis':'y'});
-    //     //Collapse mobile menu after clicking
-	// 	if ($('.navbar-collapse').hasClass('in')){
-	// 		$('.navbar-collapse').removeClass('in').addClass('collapse');
-	// 	}
+		$('body').scrollTo(target, 800, {offset: -55, 'axis':'y'});
+        //Collapse mobile menu after clicking
+		if ($('.navbar-collapse').hasClass('in')){
+			$('.navbar-collapse').removeClass('in').addClass('collapse');
+		}
 		
-	// }); 
+	}); 
         
     
     /* ======= Countdown ========= */
