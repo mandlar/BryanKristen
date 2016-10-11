@@ -524,8 +524,9 @@ label {
   /*display: block;*/
   color: #666666;
 }
+
 .map-container {
-  height: 460px;
+  height: 450px;
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
