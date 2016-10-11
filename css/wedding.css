@@ -543,7 +543,7 @@ label {
 }
 /* ======= Story Section ======= */
 .story-section {
-  background: #413a38 url('../images/wedding/story-bg.jpg') no-repeat 50% top;
+  background: #413a38 url('../images/wedding/story-bg.png') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -558,7 +558,7 @@ label {
   margin-bottom: 60px;
 }
 .story-box .content-container {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.95);
   padding: 30px;
   text-align: left;
   -webkit-border-radius: 10px;
@@ -875,6 +875,13 @@ label {
   }
   .map-col {
     margin-bottom: 30px;
+  }
+  .story-section {
+    background-position: 25% 50%;
+    height: auto;
+  }
+  .story-box {
+    margin-top: 70px;
   }
   .story-box .content-container {
     padding: 15px;
