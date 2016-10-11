@@ -483,7 +483,7 @@ label {
 }
 .wedding-section .intro {
   margin-bottom: 30px;
-  color: #786b67;
+  color: #666666;
 }
 .wedding-section .meta-list {
   font-size: 16px;
@@ -504,7 +504,7 @@ label {
   margin-bottom: 60px;
 }
 .countdown-box span {
-  display: inline-block;
+  /*display: inline-block;*/
   margin-left: 5px;
   min-width: 100px;
   text-align: center;
@@ -515,14 +515,14 @@ label {
 }
 .countdown-box span.number {
   font-size: 38px;
-  display: block;
+  /*display: block;*/
   color: #54c6f5;
   font-weight: bold;
 }
 .countdown-box span.unit {
   font-size: 22px;
-  display: block;
-  color: #786b67;
+  /*display: block;*/
+  color: #666666;
 }
 .map-container {
   height: 460px;
@@ -618,7 +618,7 @@ label {
 .gallery-section .intro {
   margin-bottom: 60px;
   font-size: 16px;
-  color: #786b67;
+  color: #666666;
 }
 .gallery-section .intro .hashtag {
   font-family: 'Montserrat', arial, sans-serif;
@@ -656,7 +656,7 @@ label {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  color: #786b67;
+  color: #666666;
   padding: 5px;
   border: none;
   border-bottom: 4px solid transparent;
@@ -721,7 +721,7 @@ label {
 }
 .message-container .intro {
   margin-bottom: 30px;
-  color: #786b67;
+  color: #666666;
 }
 .message-container .thank-you {
   font-size: 46px;
@@ -730,7 +730,7 @@ label {
 }
 .message-container .signature {
   font-size: 28px;
-  color: #786b67;
+  color: #666666;
 }
 .message-inner {
   max-width: 600px;
