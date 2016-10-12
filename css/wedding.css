@@ -620,6 +620,19 @@ label {
 .proposal-section .container {
   position: relative;
 }
+/* ======= Why The Beach Section ======= */
+.whythebeach-section {
+  background: #7297B2 url('../images/wedding/story-bg3.png') no-repeat 50% top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 60px;
+  padding-bottom: 90px;
+}
+.whythebeach-section .container {
+  position: relative;
+}
 /* ======= Wedding Party Section ======= */
 .weddingparty-section {
   padding-top: 90px;
