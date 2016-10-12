@@ -86,13 +86,13 @@ $(document).ready(function() {
     //Ref: http://packery.metafizzy.co/
     //Ref: http://imagesloaded.desandro.com/
 
-    // var $container = $('#photos-wrapper');
+    var $container = $('#photos-wrapper');
     
-    // // init
-    // $container.imagesLoaded(function () {
-    //     $container.packery({
-    //         itemSelector: '.item',
-    //         percentPosition: true
-    //     });
-    // }); 
+    // init
+    $container.imagesLoaded(function () {
+        $container.packery({
+            itemSelector: '.item',
+            percentPosition: true
+        });
+    }); 
 });

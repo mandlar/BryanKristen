@@ -680,7 +680,7 @@ label {
 .gallery-section {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: #f5f5f5;
+  /*background: #f5f5f5;*/
 }
 .gallery-section .title {
   margin-bottom: 30px;
