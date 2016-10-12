@@ -1,0 +1,30 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAD1-C432
+
+ Directory of C:\Users\Mandlar\Documents\GitHub\BryanKristen\images\wedding\gallery\1600\vert
+
+10/12/2016  05:42 PM    <DIR>          .
+10/12/2016  05:42 PM    <DIR>          ..
+10/12/2016  04:19 PM           640,736 EngagementswithKristen&Bryan-June22,20161134.jpg
+10/12/2016  04:19 PM           189,650 EngagementswithKristen&Bryan-June22,2016119.jpg
+10/12/2016  04:21 PM           162,754 EngagementswithKristen&Bryan-June22,2016130.jpg
+10/12/2016  04:19 PM           179,502 EngagementswithKristen&Bryan-June22,2016131.jpg
+10/12/2016  04:19 PM           209,338 EngagementswithKristen&Bryan-June22,2016178.jpg
+10/12/2016  04:22 PM           245,055 EngagementswithKristen&Bryan-June22,2016229.jpg
+10/12/2016  04:22 PM           211,268 EngagementswithKristen&Bryan-June22,2016239.jpg
+10/12/2016  04:24 PM           248,438 EngagementswithKristen&Bryan-June22,2016241.jpg
+10/12/2016  04:23 PM           305,191 EngagementswithKristen&Bryan-June22,2016304.jpg
+10/12/2016  04:19 PM           305,537 EngagementswithKristen&Bryan-June22,2016355.jpg
+10/12/2016  04:22 PM           122,768 EngagementswithKristen&Bryan-June22,2016486.jpg
+10/12/2016  04:24 PM           229,683 EngagementswithKristen&Bryan-June22,2016497.jpg
+10/12/2016  04:23 PM           320,370 EngagementswithKristen&Bryan-June22,2016539.jpg
+10/12/2016  04:23 PM           200,494 EngagementswithKristen&Bryan-June22,2016687-2.jpg
+10/12/2016  04:22 PM           179,812 EngagementswithKristen&Bryan-June22,2016687.jpg
+10/12/2016  04:24 PM           227,612 EngagementswithKristen&Bryan-June22,2016692.jpg
+10/12/2016  04:23 PM           341,699 EngagementswithKristen&Bryan-June22,2016749.jpg
+10/12/2016  04:19 PM           329,764 EngagementswithKristen&Bryan-June22,2016779.jpg
+10/12/2016  04:23 PM           441,979 Kristen_Bryan2-June22,201604.jpg
+10/12/2016  04:23 PM           257,353 Kristen_Bryan2-June22,201692.jpg
+10/12/2016  05:42 PM                 0 listmyfolder.txt
+              21 File(s)      5,349,003 bytes
+               2 Dir(s)  31,811,547,136 bytes free

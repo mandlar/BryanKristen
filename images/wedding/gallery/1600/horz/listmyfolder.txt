@@ -1,0 +1,45 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAD1-C432
+
+ Directory of C:\Users\Mandlar\Documents\GitHub\BryanKristen\images\wedding\gallery\1600\horz
+
+10/12/2016  05:23 PM    <DIR>          .
+10/12/2016  05:23 PM    <DIR>          ..
+10/12/2016  04:24 PM           247,043 EngagementswithKristen&Bryan-June22,20161056.jpg
+10/12/2016  04:24 PM           554,022 EngagementswithKristen&Bryan-June22,20161092.jpg
+10/12/2016  04:19 PM           414,765 EngagementswithKristen&Bryan-June22,20161110.jpg
+10/12/2016  04:21 PM           201,175 EngagementswithKristen&Bryan-June22,2016112.jpg
+10/12/2016  04:19 PM           410,280 EngagementswithKristen&Bryan-June22,20161125.jpg
+10/12/2016  04:24 PM           254,406 EngagementswithKristen&Bryan-June22,2016157.jpg
+10/12/2016  04:22 PM           228,945 EngagementswithKristen&Bryan-June22,2016214.jpg
+10/12/2016  04:19 PM           318,373 EngagementswithKristen&Bryan-June22,2016225.jpg
+10/12/2016  04:19 PM           265,466 EngagementswithKristen&Bryan-June22,2016250-2.jpg
+10/12/2016  04:24 PM           223,207 EngagementswithKristen&Bryan-June22,201627.jpg
+10/12/2016  04:19 PM           210,577 EngagementswithKristen&Bryan-June22,201629.jpg
+10/12/2016  04:23 PM           267,392 EngagementswithKristen&Bryan-June22,2016342.jpg
+10/12/2016  04:19 PM           277,973 EngagementswithKristen&Bryan-June22,2016385.jpg
+10/12/2016  04:22 PM           291,334 EngagementswithKristen&Bryan-June22,2016398.jpg
+10/12/2016  04:21 PM           290,660 EngagementswithKristen&Bryan-June22,2016404.jpg
+10/12/2016  04:23 PM           316,868 EngagementswithKristen&Bryan-June22,2016406.jpg
+10/12/2016  04:19 PM           288,145 EngagementswithKristen&Bryan-June22,2016409.jpg
+10/12/2016  04:23 PM           199,759 EngagementswithKristen&Bryan-June22,2016417.jpg
+10/12/2016  04:19 PM           224,209 EngagementswithKristen&Bryan-June22,2016428.jpg
+10/12/2016  04:23 PM           362,964 EngagementswithKristen&Bryan-June22,2016506.jpg
+10/12/2016  04:19 PM           255,780 EngagementswithKristen&Bryan-June22,2016524.jpg
+10/12/2016  04:19 PM           443,018 EngagementswithKristen&Bryan-June22,2016559.jpg
+10/12/2016  04:23 PM           347,407 EngagementswithKristen&Bryan-June22,2016579.jpg
+10/12/2016  04:22 PM           361,073 EngagementswithKristen&Bryan-June22,2016588.jpg
+10/12/2016  04:19 PM           165,865 EngagementswithKristen&Bryan-June22,201680.jpg
+10/12/2016  04:22 PM           176,359 EngagementswithKristen&Bryan-June22,201684.jpg
+10/12/2016  04:24 PM           214,036 EngagementswithKristen&Bryan-June22,2016871.jpg
+10/12/2016  04:23 PM           274,438 EngagementswithKristen&Bryan-June22,2016929.jpg
+10/12/2016  04:19 PM           316,778 EngagementswithKristen&Bryan-June22,2016945.jpg
+10/12/2016  04:23 PM           240,093 EngagementswithKristen&Bryan-June22,2016956.jpg
+10/12/2016  04:23 PM           159,905 EngagementswithKristen&Bryan-June22,201697.jpg
+10/12/2016  04:23 PM           389,003 Kristen_Bryan2-June22,201611.jpg
+10/12/2016  04:23 PM           162,555 Kristen_Bryan2-June22,201612.jpg
+10/12/2016  04:19 PM           198,468 Kristen_Bryan2-June22,2016232.jpg
+10/12/2016  04:24 PM           410,170 Kristen_Bryan2-June22,2016319.jpg
+10/12/2016  05:23 PM                 0 listmyfolder.txt
+              36 File(s)      9,962,511 bytes
+               2 Dir(s)  31,813,648,384 bytes free
