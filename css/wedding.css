@@ -810,7 +810,7 @@ label {
   padding-bottom: 90px;
 }
 .message-container {
-  background: transparent url('../images/wedding/frame-pink.png') no-repeat center top;
+  background: transparent url('../images/wedding/frame-blue.png') no-repeat center top;
   min-height: 620px;
   position: relative;
   margin-bottom: 200px;
@@ -840,7 +840,7 @@ label {
   margin-left: -163px;
   width: 326px;
   height: 304px;
-  background: transparent url('../images/wedding/heart-couple-pink.png') no-repeat center center;
+  background: transparent url('../images/wedding/heart-couple-blue.png') no-repeat center center;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -856,7 +856,7 @@ label {
   opacity: 1;
 }
 .brand-list img {
-  max-width: 160px;
+  max-width: 250px;
   -webkit-opacity: 0.8;
   -moz-opacity: 0.8;
   opacity: 0.8;
