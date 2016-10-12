@@ -656,6 +656,13 @@ label {
 .weddingpartymember .name {
   font-size: 18px;
 }
+.bear:hover {
+  width:0px;
+  height:0px; 
+  padding: 100px; 
+  background: url("../images/wedding/headshot-bear.png");
+  /*content:url("../images/wedding/headshot-bear.png");*/ /* although cleaner, this doesn't work in IE, of course */
+}
 /* ======= Accommodations Section ======= */
 .accommodations-section {
   padding-top: 90px;
