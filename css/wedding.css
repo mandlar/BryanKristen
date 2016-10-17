@@ -6,7 +6,7 @@ body {
 }
 body {
   font-family: 'Montserrat', arial, sans-serif;
-  color: #413a38;
+  color: #333; /* #413a38;*/
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -594,8 +594,8 @@ label {
   width: 12px;
   height: 12px;
   margin: 0;
-  background-color: #413a38;
-  border-color: #413a38;
+  background-color: #333; /*#413a38;*/
+  border-color: #333; /*#413a38;*/
 }
 .story-carousel .love-icon {
   display: inline-block;
@@ -769,10 +769,10 @@ label {
   background: transparent;
   border: none;
   border-bottom: 4px solid transparent;
-  color: #413a38;
+  color: #333; /*#413a38;*/
 }
 .nav-tabs > li.active > a {
-  color: #413a38;
+  color: #333; /*#413a38;*/
   background: transparent;
   border: none;
   border-bottom: 4px solid #84D6F8;
@@ -783,7 +783,7 @@ label {
   border: none;
   border-bottom: 4px solid #84D6F8;
   background: transparent;
-  color: #413a38;
+  color: #333; /*#413a38;*/
 }
 .tab-pane {
   padding: 15px;
