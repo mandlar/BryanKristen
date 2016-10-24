@@ -574,7 +574,8 @@ label {
   min-height: 500px;
   padding: 15px;
 }
-.story-carousel .item-title {
+/*.story-carousel .item-title {*/
+.item-title {
   font-size: 24px;
   margin-bottom: 30px;
   margin-top: 15px;
@@ -988,7 +989,8 @@ label {
   .story-box .content-container {
     padding: 15px;
   }
-  .story-carousel .item-title {
+  /*.story-carousel .item-title {*/
+  .item-title {
     font-size: 24px;
   }
   .message-container .thank-you {
