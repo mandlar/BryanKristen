@@ -993,6 +993,14 @@ label {
   .item-title {
     font-size: 24px;
   }
+  .proposal-section {
+    background-position: 75% 50%;
+    height: auto;
+  }
+  .whythebeach-section {
+    background-position: 10% 50%;
+    height: auto;
+  }
   .message-container .thank-you {
     font-size: 28px;
   }
