@@ -366,7 +366,7 @@ label {
 /* ======= Hero Section ======= */
 .hero-section {
   margin-top: 55px;
-  background: #C7C7D8 url('../images/wedding/BryanKristenMeetUsOnTheBeach3.png') no-repeat 50% top; /* 1600 x 760 */
+  background: #C7C7D8 url('../images/wedding/BryanKristenMeetUsOnTheBeach3.jpg') no-repeat 50% top; /* 1600 x 760 */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -543,7 +543,7 @@ label {
 }
 /* ======= Story Section ======= */
 .story-section {
-  background: #7297B2 url('../images/wedding/story-bg.png') no-repeat 50% top;
+  background: #7297B2 url('../images/wedding/story-bg.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -610,7 +610,7 @@ label {
 }
 /* ======= Proposal Section ======= */
 .proposal-section {
-  background: #7297B2 url('../images/wedding/story-bg2.png') no-repeat 50% top;
+  background: #7297B2 url('../images/wedding/story-bg2.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -623,7 +623,7 @@ label {
 }
 /* ======= Why The Beach Section ======= */
 .whythebeach-section {
-  background: #7297B2 url('../images/wedding/story-bg3.png') no-repeat 50% top;
+  background: #7297B2 url('../images/wedding/story-bg3.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
