@@ -230,7 +230,7 @@ label {
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
-  width: 75px;
+  width: 150px;
   height: 86px;
   display: inline-block;
 }
@@ -240,7 +240,7 @@ label {
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
-  width: 75px;
+  width: 150px;
   height: 86px;
   display: inline-block;
 }
@@ -917,7 +917,7 @@ label {
     padding-right: 5px;
   }
   .title-deco-left {
-    width: 45px;
+    width: 60px;
     height: 52px;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -925,7 +925,7 @@ label {
     background-size: contain;
   }
   .title-deco-right {
-    width: 45px;
+    width: 60px;
     height: 52px;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -1050,10 +1050,10 @@ label {
   background-image: url('../images/wedding/ribbon-blue.svg');
 }
 .title-deco-left {
-  background-image: url('../images/wedding/rose-left-blue.svg');
+  background-image: url('../images/wedding/wave-blue-left2.png');
 }
 .title-deco-right {
-  background-image: url('../images/wedding/rose-right-blue.svg');
+  background-image: url('../images/wedding/wave-blue-right2.png');
 }
 .message-container {
   background-image: url('../images/wedding/frame-blue.png');
