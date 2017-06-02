@@ -28,7 +28,7 @@ $(document).ready(function() {
     var current_date = new Date().getTime();
     var seconds_left = (target_date - current_date) / 1000;
 
-    var days = parseInt(seconds_left / 86400);
+    var days = Math.ceil(seconds_left / 86400);
 
     if(days == 1) // edge cases: singularize "days" and post-marriage
     {
